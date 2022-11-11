@@ -20,10 +20,16 @@
             ]
           },
           "populateSchema": {
-            "indexNames": []
+            "indexNames": [
+            "test_wrong_index"
+            ]
           },
           "reindex": {
-            "indexNames": []
+            "indexNames": [
+            "test_wrong_indexes_1",
+            "test_wrong_indexes_2",
+            "test_wrong_indexes_3"
+            ]
           }
         }
     }
